@@ -1,1 +1,2 @@
 # chatAPI
+basic chat application
